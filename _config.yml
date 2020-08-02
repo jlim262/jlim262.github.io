@@ -3,21 +3,22 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: JongYoon Lim 
+title: Senior Software Engineer
+email: jongyoon@apache.org
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username:  jlim262
+linkedin_username: hello-jongyoon
+# twitter_username: facespics
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: jekyll
+
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 
 # About Section
